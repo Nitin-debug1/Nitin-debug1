@@ -1,56 +1,24 @@
-# 👋 Hello, I'm Nitin Bhandari
+# Hi there 👋, I'm Nitin Bhandari
 
-### 🌍 From Butwal, Nepal  
-### 📚 Novel Reader | 💻 Lifelong Learner  
+## 🚀 About Me
+- 🌍 I live in **Butwal, Nepal**
+- 📚 I love reading novels
+- 💻 Passionate about learning and growing in tech
+- 🌱 Always exploring new skills and ideas
 
----
+## 🧠 Hobbies
+- 📖 Reading novels  
+- ✍️ Exploring new stories and ideas  
+- 🌏 Learning about different perspectives through books  
 
-## 🧑‍💻 About Me
-
-Hi! I'm **Nitin Bhandari**, based in Butwal, Nepal.  
-I enjoy reading novels and exploring different worlds through stories.  
-I’m passionate about self-growth, learning new skills, and building meaningful projects.
-
----
-
-## 📚 My Hobby – Reading Novels
-
-Reading helps me:
-- 🌟 Boost creativity  
-- 🧠 Strengthen critical thinking  
-- 🌍 Understand diverse perspectives  
-- ✍️ Improve communication skills  
-
-> “A reader lives a thousand lives before he dies.” – George R.R. Martin  
-
----
-
-## 🚀 Goals
-
-- 🔥 Improve consistently  
-- 💡 Build impactful projects  
-- 🌱 Learn new technologies  
-- 🤝 Collaborate with others  
-
----
-
-## 📊 GitHub Analytics
-
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-
-### 🔥 GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)
-
-### 💻 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
+## 🎯 Goals
+- Continuously improve my technical skills
+- Contribute to meaningful projects
+- Build creative and useful applications
 
 ## 📫 Connect With Me
-
-- 🔗 GitHub: https://github.com/your-username
+- GitHub: (https://github.com/your-username)
 
 ---
 
-⭐ Thank you for visiting my profile!
+⭐ *“A reader lives a thousand lives before he dies.”*  
