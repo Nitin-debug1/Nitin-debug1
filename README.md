@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋, I'm Nitin Bhandari
 
-<!--
-**Nitin-debug1/Nitin-debug1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🌍 I live in **Butwal, Nepal**
+- 📚 I love reading novels
+- 💻 Passionate about learning and growing in tech
+- 🌱 Always exploring new skills and ideas
 
-Here are some ideas to get you started:
+## 🧠 Hobbies
+- 📖 Reading novels  
+- ✍️ Exploring new stories and ideas  
+- 🌏 Learning about different perspectives through books  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Goals
+- Continuously improve my technical skills
+- Contribute to meaningful projects
+- Build creative and useful applications
+
+## 📫 Connect With Me
+- GitHub: (https://github.com/your-username)
+
+---
+
+⭐ *“A reader lives a thousand lives before he dies.”*  
