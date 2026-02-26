@@ -1,26 +1,25 @@
 # 👋 Hello, I'm Nitin Bhandari
 
 ### 🌍 From Butwal, Nepal  
-### 📚 A Passionate Novel Reader | 💻 Lifelong Learner  
+### 📚 Novel Reader | 💻 Lifelong Learner  
 
 ---
 
 ## 🧑‍💻 About Me
 
-✨ I’m Nitin Bhandari, based in Butwal, Nepal.  
-📖 I enjoy reading novels and exploring different worlds through stories.  
-🚀 I believe in continuous self-improvement and learning something new every day.  
-🎯 Currently focused on growing my skills and building meaningful projects.
+Hi! I'm **Nitin Bhandari**, based in Butwal, Nepal.  
+I enjoy reading novels and exploring different worlds through stories.  
+I’m passionate about self-growth, learning new skills, and building meaningful projects.
 
 ---
 
 ## 📚 My Hobby – Reading Novels
 
 Reading helps me:
-- 🌟 Improve creativity  
-- 🧠 Develop critical thinking  
-- 🌍 Understand different cultures and perspectives  
-- ✍️ Strengthen communication skills  
+- 🌟 Boost creativity  
+- 🧠 Strengthen critical thinking  
+- 🌍 Understand diverse perspectives  
+- ✍️ Improve communication skills  
 
 > “A reader lives a thousand lives before he dies.” – George R.R. Martin  
 
@@ -28,16 +27,23 @@ Reading helps me:
 
 ## 🚀 Goals
 
-- 🔥 Become better every day
-- 💡 Work on impactful projects
-- 🌱 Keep learning and evolving
-- 🤝 Collaborate with inspiring people
+- 🔥 Improve consistently  
+- 💡 Build impactful projects  
+- 🌱 Learn new technologies  
+- 🤝 Collaborate with others  
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+### 🔥 GitHub Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight)
+
+### 💻 Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
 
 ---
 
@@ -47,4 +53,4 @@ Reading helps me:
 
 ---
 
-⭐ *Thank you for visiting my profile!*
+⭐ Thank you for visiting my profile!
